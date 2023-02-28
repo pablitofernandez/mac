@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,13 +9,16 @@
       "name": "Pablo",
       "surnames": "Fernández Muga",
       "title": "Software engineer, product and service developer (.NET lover ❤️)",
-      "description": "Toda mi carrera profesional ha estado centrada en el desarrollo de software de calidad como principal tarea y objetivo. Además al haber estado trabajando en el sector de la investigación he tenido la oportunidad de trabajar con un gran abanico de tecnologías. Ello me ha llevado a entre otras cosas ser profesor de distintas asignaturas relacionadas con la arquitectura, diseño y desarrollo de software en la Universidad de Deusto, donde se ubica el centro de investigación en el que llevo trabajando más de 10 años.",
+      "description": "",
       "avatar": {
         "alt": "FotoTarjetaDeusto.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/3cea43bf-b8d6-4d36-8d33-403e3e5815c5_fototarjetadeusto.jpg"
       },
       "location": {
-        "notes": "Bilbao"
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Bilbao",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -375,10 +378,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -474,12 +479,6 @@
       },
       {
         "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Grafana",
           "type": "technology"
         }
@@ -487,6 +486,12 @@
       {
         "skill": {
           "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
           "type": "technology"
         }
       },
@@ -504,12 +509,6 @@
       },
       {
         "skill": {
-          "name": "VMWare",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "OpenApi",
           "type": "technology"
         }
@@ -517,6 +516,12 @@
       {
         "skill": {
           "name": "Jetbrains",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
           "type": "technology"
         }
       },
@@ -702,13 +707,13 @@
       },
       {
         "skill": {
-          "name": "VanillaJS",
+          "name": "AJAX",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AJAX",
+          "name": "VanillaJS",
           "type": "technology"
         }
       },
@@ -806,6 +811,7 @@
         "finishDate": "2010-09-01",
         "institution": {
           "name": "Universidad de Deusto",
+          "description": "",
           "URL": "https://www.deusto.es/"
         }
       },
@@ -817,6 +823,7 @@
         "finishDate": "2009-09-01",
         "institution": {
           "name": "Universidad de Deusto",
+          "description": "",
           "URL": "https://www.deusto.es"
         }
       },
@@ -828,6 +835,7 @@
         "finishDate": "2007-09-01",
         "institution": {
           "name": "Universidad de Deusto",
+          "description": "",
           "URL": "https://www.deusto.es"
         }
       }
@@ -910,7 +918,15 @@
           "name": "PHP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Research Developer",
+        "Software Architect",
+        "Tech Lead"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }

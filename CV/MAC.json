@@ -1000,6 +1000,10 @@
         "type": "technology"
       },
       {
+        "name": "Angular Universal",
+        "type": "technology"
+      },
+      {
         "name": "JavaScript",
         "type": "technology"
       },

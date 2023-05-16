@@ -987,6 +987,7 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
-    "desiredJobDescription": "Siempre he valorado mucho el poder estar en contacto con nuevas tecnologías y tendencias de desarrollo. Me gustaría un trabajo donde además de poder ser productivo y resolutivo desarrollando tareas que me apasionan no quedarme estancado tecnológicamente. Para ello siempre he sido y seré autodidacta y proactivo a la hora de estar al día y proponer el uso de nuevas tecnologías en cada uno de los proyectos en los que he participado."
+    "desiredJobDescription": "Siempre he valorado mucho el poder estar en contacto con nuevas tecnologías y tendencias de desarrollo. Me gustaría un trabajo donde además de poder ser productivo y resolutivo desarrollando tareas que me apasionan no quedarme estancado tecnológicamente. Para ello siempre he sido y seré autodidacta y proactivo a la hora de estar al día y proponer el uso de nuevas tecnologías en cada uno de los proyectos en los que he participado.",
+    "goodPractices": "Siempre procuro aplicar los principios SOLID de forma natural en todos mis desarrollos. No práctico TDD pero sí que utilizo tests unitarios, de integración y e2e cuando es necesario. Trabajo en entornos CD/CI con metodologías ágiles.\n\nConozco y he utilizado arquitecturas hexagonales, onion, etc y últimamente también me gusta utilizar VSA (Vertial Slice Architecture)."
   }
 }

@@ -57,6 +57,10 @@
       {
         "organization": {
           "name": "Universidad de Deusto",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/16/c2f9a32d-fcd3-4148-a18b-c9f6232282a4_udeusto_2.jpg",
+            "alt": "udeusto_2.jpg"
+          },
           "URL": "https://www.deusto.es"
         },
         "roles": [

@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,36 +9,17 @@
       "name": "Pablo",
       "surnames": "Fernández Muga",
       "title": "Software engineer, product and service developer (.NET lover ❤️)",
-      "description": "",
       "avatar": {
-        "alt": "FotoTarjetaDeusto.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/3cea43bf-b8d6-4d36-8d33-403e3e5815c5_fototarjetadeusto.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/3cea43bf-b8d6-4d36-8d33-403e3e5815c5_fototarjetadeusto.jpg",
+        "alt": "FotoTarjetaDeusto.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
         "country": "España",
         "region": "País Vasco",
-        "municipality": "Bilbao",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Bilbao"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/pablitofernandez"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/1731987/pablito"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/PabloFernandez"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/pablofernandezmuga"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Homelabber",
@@ -54,10 +35,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "Universidad de Deusto",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/16/6b52200c-286f-4a9b-b27e-d693a2d56606_udeusto_2.jpg",
+            "alt": "udeusto_2.jpg"
+          },
+          "URL": "https://www.deusto.es"
+        },
+        "roles": [
+          {
+            "name": "Profesor",
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "Profesor de la asignatura Arquitectura de sistemas en la nube de la Facultas de Ingeniería"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad de Deusto",
+          "URL": "https://www.deusto.es"
+        },
+        "roles": [
+          {
+            "name": "Profesor",
+            "startDate": "2011-09-01",
+            "finishDate": "2015-09-01",
+            "challenges": [
+              {
+                "description": "Profesor de las asignaturas Diseño de Software y Tecnologia Informática Multimedia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Universidad de Deusto - DeustoTech",
           "image": {
-            "alt": "C460075C-ADB2-437F-9B11-1B1FB5EC6761.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/28/6e231f8b-326a-47d8-b69f-a7a1d728ef60_c460075c-adb2-437f-9.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/28/6e231f8b-326a-47d8-b69f-a7a1d728ef60_c460075c-adb2-437f-9.jpeg",
+            "alt": "C460075C-ADB2-437F-9B11-1B1FB5EC6761.jpeg"
           },
           "URL": "https://deustotech.eu"
         },
@@ -354,24 +374,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Universidad de Deusto",
-          "URL": "https://www.deusto.es"
-        },
-        "roles": [
-          {
-            "name": "Profesor",
-            "startDate": "2011-09-01",
-            "finishDate": "2015-09-01",
-            "challenges": [
-              {
-                "description": "Profesor de las asignaturas Diseño de Software y Tecnologia Informática Multimedia."
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -389,115 +391,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Git",
+          "name": ".NET",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Figma",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Maven",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grafana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MQTT",
+          "name": ".Net Core",
           "type": "technology"
         }
       },
@@ -509,37 +409,31 @@
       },
       {
         "skill": {
-          "name": "OpenApi",
+          "name": "AJAX",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jetbrains",
+          "name": "API",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "VMWare",
+          "name": "ASP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "WebApi",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "XAML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ECMAScript",
+          "name": "AWS EC2",
           "type": "technology"
         }
       },
@@ -551,25 +445,79 @@
       },
       {
         "skill": {
-          "name": "WinForms",
+          "name": "ActiveMQ",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SignalR",
+          "name": "Adobe Illustrator",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "openlayers",
+          "name": "Adobe Photoshop",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "YAML",
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache Camel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache Tomcat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ECMAScript",
           "type": "technology"
         }
       },
@@ -587,25 +535,49 @@
       },
       {
         "skill": {
-          "name": "SQLServer",
+          "name": "Figma",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Microsoft Office 365",
+          "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": ".Net Core",
+          "name": "GitLab",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Maps",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "InfluxDB",
           "type": "technology"
         }
       },
@@ -623,109 +595,13 @@
       },
       {
         "skill": {
-          "name": "C#",
+          "name": "Jetbrains",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft WPF",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Photoshop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Illustrator",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AJAX",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VanillaJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ASP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "InfluxDB",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -737,37 +613,13 @@
       },
       {
         "skill": {
-          "name": "Proxmox",
+          "name": "Linux",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Raspberry",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenStack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apache Camel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ActiveMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS EC2",
+          "name": "MQTT",
           "type": "technology"
         }
       },
@@ -779,7 +631,7 @@
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "MariaDB",
           "type": "technology"
         }
       },
@@ -791,13 +643,163 @@
       },
       {
         "skill": {
-          "name": "Google Maps",
+          "name": "Maven",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Apache Tomcat",
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft WPF",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenStack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proxmox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Raspberry",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SignalR",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VanillaJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WinForms",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "openlayers",
           "type": "technology"
         }
       }
@@ -806,37 +808,54 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Máster en desarrollo e integración de soluciones software",
-        "startDate": "2009-09-01",
-        "finishDate": "2010-09-01",
-        "institution": {
-          "name": "Universidad de Deusto",
-          "description": "",
-          "URL": "https://www.deusto.es/"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Ingeniero en informática",
         "startDate": "2007-09-01",
-        "finishDate": "2009-09-01",
         "institution": {
           "name": "Universidad de Deusto",
-          "description": "",
           "URL": "https://www.deusto.es"
-        }
+        },
+        "finishDate": "2009-09-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero técnico en informática",
         "startDate": "2003-09-01",
-        "finishDate": "2007-09-01",
         "institution": {
           "name": "Universidad de Deusto",
-          "description": "",
           "URL": "https://www.deusto.es"
+        },
+        "finishDate": "2007-09-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en desarrollo e integración de soluciones software",
+        "startDate": "2009-09-01",
+        "institution": {
+          "name": "Universidad de Deusto",
+          "URL": "https://www.deusto.es/"
+        },
+        "finishDate": "2010-09-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
         }
       }
     ]
@@ -845,12 +864,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/pablofernandezmuga"
+          "URL": "https://www.linkedin.com/in/pablofernandezmuga",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/1731987/pablito"
+          "URL": "https://stackoverflow.com/users/1731987/pablito",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/pablitofernandez",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/PabloFernandez",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "morfellu@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "687781005",
+          "countryCode": "+34"
         }
       ]
     },
@@ -927,6 +963,9 @@
         "Tech Lead"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Siempre he valorado mucho el poder estar en contacto con nuevas tecnologías y tendencias de desarrollo. Me gustaría un trabajo donde además de poder ser productivo y resolutivo desarrollando tareas que me apasionan no quedarme estancado tecnológicamente. Para ello siempre he sido y seré autodidacta y proactivo a la hora de estar al día y proponer el uso de nuevas tecnologías en cada uno de los proyectos en los que he participado."
   }
 }

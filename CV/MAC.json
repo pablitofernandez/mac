@@ -35,6 +35,22 @@
     "jobs": [
       {
         "organization": {
+          "name": "Kurago",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/16/5d763ea6-6beb-422e-aa70-31771ac65a59_descarga.png",
+            "alt": "descarga.png"
+          },
+          "URL": "https://www.kurago.software"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Universidad de Deusto",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/16/6b52200c-286f-4a9b-b27e-d693a2d56606_udeusto_2.jpg",

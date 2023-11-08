@@ -30,6 +30,24 @@
         "topic": "Amante de la domótica",
         "fact": "Me encanta la domótica, desde que me compré el piso donde resido no he dejado de ir añadiendo piezas de software y hardware al entramado de mi casa. Todo ello centrado en Home Assistant, proyecto para el que he realizado alguna aportación cuando he visto que me hacía falta algo que no estaba implementado."
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pablofernandezmuga"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/pablitofernandez"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/PabloFernandez"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/1731987/pablito"
+      }
     ]
   },
   "experience": {
@@ -206,10 +224,6 @@
                 "type": "technology"
               },
               {
-                "name": "ESXi",
-                "type": "technology"
-              },
-              {
                 "name": "Eclipse",
                 "type": "technology"
               },
@@ -358,6 +372,10 @@
                 "type": "technology"
               },
               {
+                "name": "VMware ESXi",
+                "type": "technology"
+              },
+              {
                 "name": "VanillaJS",
                 "type": "technology"
               },
@@ -402,11 +420,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -546,12 +564,6 @@
       {
         "skill": {
           "name": "ECMAScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ESXi",
           "type": "technology"
         }
       },
@@ -779,6 +791,12 @@
       },
       {
         "skill": {
+          "name": "VMware ESXi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "VanillaJS",
           "type": "technology"
         }
@@ -901,11 +919,11 @@
         },
         {
           "URL": "https://github.com/pablitofernandez",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/PabloFernandez",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
@@ -1001,6 +1019,10 @@
       },
       {
         "name": "Angular Universal",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
         "type": "technology"
       },
       {
